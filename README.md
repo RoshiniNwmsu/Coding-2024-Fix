@@ -1,5 +1,8 @@
 ## Coding 2024 Fix - Creatures Data Filtering Project
 
+## Live Demo
+**Live Link:** [Click here to view the live application](https://coding2024-fix20250316161701-ducpghbeavejh4cb.centralus-01.azurewebsites.net/Default)
+
 ## Overview
 This project was developed as part of a coding assessment for Cobblestone Software. It demonstrates the ability to debug and enhance an existing ASP.NET Web Forms project by:
 - Reading and displaying data from a CSV file.
