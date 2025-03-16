@@ -28,6 +28,7 @@ The main focus of this application is the **random generation feature** that sel
 - ADO.NET (CSV parsing)
 - HTML and CSS
 - Visual Studio 2022
+- Azure App Service (For Deployment)
 
 ---
 
@@ -50,10 +51,21 @@ The main focus of this application is the **random generation feature** that sel
   ```
   /MyData/DataForTest.csv
   ```
+ - ***Set its properties in Visual Studio:***
+	- Build Action: Content
+	- Copy to Output Directory: Copy if newer
+
 
 4. **Build and Run:**
 - Press `F5` or click **Start Debugging** to run the project locally.
 - The browser will open with the homepage on `https://localhost`.
+
+---
+## Deployment on Azure (Summary)
+- Publish through Visual Studio.
+- Create App Service + Hosting Plan.
+- After publish, use **Kudu** to upload `DataForTest.csv`:
+- Path: `/site/wwwroot/MyData/DataForTest.csv`
 
 ---
 
@@ -84,5 +96,9 @@ The About page contains an explanation of the application purpose and how it wor
 The Contact page shows placeholder contact details (can be updated as needed).
 
 ![Contact Page](screenshots/contact-page.png)
+
+---
+## Author
+Roshini Bikkina
 
 ---
