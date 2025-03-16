@@ -1,7 +1,7 @@
 ## Coding 2024 Fix - Creatures Data Filtering Project
 
 ## Live Demo
-**Live Link:** [Click here to view the live application](https://coding2024-fix20250316161701-ducpghbeavejh4cb.centralus-01.azurewebsites.net/Default)
+**Live Link:** [Click here to view the live application](https://coding2024-fix20250316161701-ducpghbeavejh4cb.centralus-01.azurewebsites.net)
 
 ## Overview
 This project was developed as part of a coding assessment for Cobblestone Software. It demonstrates the ability to debug and enhance an existing ASP.NET Web Forms project by:
@@ -61,13 +61,20 @@ The main focus of this application is the **random generation feature** that sel
 - The browser will open with the homepage on `https://localhost`.
 
 ---
-## Deployment on Azure (Summary)
-- Publish through Visual Studio.
-- Create App Service + Hosting Plan.
-- After publish, use **Kudu** to upload `DataForTest.csv`:
-- Path: `/site/wwwroot/MyData/DataForTest.csv`
+## Deployment Steps (Azure)
 
----
+1. **Publish from Visual Studio:**
+   - Right-click the project > **Publish**
+   - Select **Azure App Service** > **Create New**
+   - Fill in the required details:
+     - Resource Group
+     - Hosting Plan (Standard S1 is fine)
+   - Click **Publish**
+
+2. **Confirm Successful Deployment:**
+   - The project is live at:(https://coding2024-fix20250316161701-ducpghbeavejh4cb.centralus-01.azurewebsites.net)
+
+----
 
 ## Screenshots
 
