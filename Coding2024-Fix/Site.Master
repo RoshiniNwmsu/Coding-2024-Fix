@@ -1,0 +1,33 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site.Master.cs" Inherits="Coding2024_Fix.SiteMaster" %>
+
+<!DOCTYPE html>
+<html lang="en">
+<head runat="server">
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title><%: Page.Title %> - Cobblestone Assessment</title>
+    <link href="Content/Site.css" rel="stylesheet" />
+</head>
+<body>
+    <form runat="server">
+      <!-- NAVIGATION BAR -->
+<div class="navbar">
+    <div class="app-name">DataGrid Filter</div>
+    <div class="nav-links">
+        <a href="Default.aspx">Home</a>
+        <a href="About.aspx">About</a>
+        <a href="Contact.aspx">Contact</a>
+    </div>
+</div>
+           
+
+        <div class="body-content">
+            <asp:ContentPlaceHolder ID="MainContent" runat="server" />
+        </div>
+
+        <footer class="footer">
+            &copy; 2025 - My ASP.NET Application
+        </footer>
+    </form>
+</body>
+</html>

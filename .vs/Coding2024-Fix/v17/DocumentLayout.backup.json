@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\roshi\\source\\repos\\Coding2024-Fix\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B8A81B69-548A-49C0-AD95-0B475172510D}|Coding2024-Fix\\Coding2024-Fix.csproj|c:\\users\\roshi\\source\\repos\\coding2024-fix\\coding2024-fix\\content\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{B8A81B69-548A-49C0-AD95-0B475172510D}|Coding2024-Fix\\Coding2024-Fix.csproj|solutionrelative:coding2024-fix\\content\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8A81B69-548A-49C0-AD95-0B475172510D}|Coding2024-Fix\\Coding2024-Fix.csproj|c:\\users\\roshi\\source\\repos\\coding2024-fix\\coding2024-fix\\about.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{B8A81B69-548A-49C0-AD95-0B475172510D}|Coding2024-Fix\\Coding2024-Fix.csproj|solutionrelative:coding2024-fix\\about.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8A81B69-548A-49C0-AD95-0B475172510D}|Coding2024-Fix\\Coding2024-Fix.csproj|c:\\users\\roshi\\source\\repos\\coding2024-fix\\coding2024-fix\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{B8A81B69-548A-49C0-AD95-0B475172510D}|Coding2024-Fix\\Coding2024-Fix.csproj|solutionrelative:coding2024-fix\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8A81B69-548A-49C0-AD95-0B475172510D}|Coding2024-Fix\\Coding2024-Fix.csproj|c:\\users\\roshi\\source\\repos\\coding2024-fix\\coding2024-fix\\about.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8A81B69-548A-49C0-AD95-0B475172510D}|Coding2024-Fix\\Coding2024-Fix.csproj|solutionrelative:coding2024-fix\\about.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8A81B69-548A-49C0-AD95-0B475172510D}|Coding2024-Fix\\Coding2024-Fix.csproj|c:\\users\\roshi\\source\\repos\\coding2024-fix\\coding2024-fix\\contact.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{B8A81B69-548A-49C0-AD95-0B475172510D}|Coding2024-Fix\\Coding2024-Fix.csproj|solutionrelative:coding2024-fix\\contact.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8A81B69-548A-49C0-AD95-0B475172510D}|Coding2024-Fix\\Coding2024-Fix.csproj|c:\\users\\roshi\\source\\repos\\coding2024-fix\\coding2024-fix\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8A81B69-548A-49C0-AD95-0B475172510D}|Coding2024-Fix\\Coding2024-Fix.csproj|solutionrelative:coding2024-fix\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8A81B69-548A-49C0-AD95-0B475172510D}|Coding2024-Fix\\Coding2024-Fix.csproj|c:\\users\\roshi\\source\\repos\\coding2024-fix\\coding2024-fix\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{B8A81B69-548A-49C0-AD95-0B475172510D}|Coding2024-Fix\\Coding2024-Fix.csproj|solutionrelative:coding2024-fix\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "About.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\roshi\\source\\repos\\Coding2024-Fix\\Coding2024-Fix\\About.aspx.cs",
+              "RelativeDocumentMoniker": "Coding2024-Fix\\About.aspx.cs",
+              "ToolTip": "C:\\Users\\roshi\\source\\repos\\Coding2024-Fix\\Coding2024-Fix\\About.aspx.cs",
+              "RelativeToolTip": "Coding2024-Fix\\About.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T23:45:36.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Contact.aspx",
+              "DocumentMoniker": "C:\\Users\\roshi\\source\\repos\\Coding2024-Fix\\Coding2024-Fix\\Contact.aspx",
+              "RelativeDocumentMoniker": "Coding2024-Fix\\Contact.aspx",
+              "ToolTip": "C:\\Users\\roshi\\source\\repos\\Coding2024-Fix\\Coding2024-Fix\\Contact.aspx",
+              "RelativeToolTip": "Coding2024-Fix\\Contact.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-03-15T23:26:53.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "About.aspx",
+              "DocumentMoniker": "C:\\Users\\roshi\\source\\repos\\Coding2024-Fix\\Coding2024-Fix\\About.aspx",
+              "RelativeDocumentMoniker": "Coding2024-Fix\\About.aspx",
+              "ToolTip": "C:\\Users\\roshi\\source\\repos\\Coding2024-Fix\\Coding2024-Fix\\About.aspx",
+              "RelativeToolTip": "Coding2024-Fix\\About.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-03-15T23:26:23.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Site.css",
+              "DocumentMoniker": "C:\\Users\\roshi\\source\\repos\\Coding2024-Fix\\Coding2024-Fix\\Content\\Site.css",
+              "RelativeDocumentMoniker": "Coding2024-Fix\\Content\\Site.css",
+              "ToolTip": "C:\\Users\\roshi\\source\\repos\\Coding2024-Fix\\Coding2024-Fix\\Content\\Site.css",
+              "RelativeToolTip": "Coding2024-Fix\\Content\\Site.css",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAABwAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-03-15T23:25:19.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Site.Master",
+              "DocumentMoniker": "C:\\Users\\roshi\\source\\repos\\Coding2024-Fix\\Coding2024-Fix\\Site.Master",
+              "RelativeDocumentMoniker": "Coding2024-Fix\\Site.Master",
+              "ToolTip": "C:\\Users\\roshi\\source\\repos\\Coding2024-Fix\\Coding2024-Fix\\Site.Master",
+              "RelativeToolTip": "Coding2024-Fix\\Site.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-03-15T23:23:07.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Default.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\roshi\\source\\repos\\Coding2024-Fix\\Coding2024-Fix\\Default.aspx.cs",
+              "RelativeDocumentMoniker": "Coding2024-Fix\\Default.aspx.cs",
+              "ToolTip": "C:\\Users\\roshi\\source\\repos\\Coding2024-Fix\\Coding2024-Fix\\Default.aspx.cs",
+              "RelativeToolTip": "Coding2024-Fix\\Default.aspx.cs",
+              "ViewState": "AgIAAGUAAAAAAAAAAAAAAGUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T23:21:38.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Default.aspx",
+              "DocumentMoniker": "C:\\Users\\roshi\\source\\repos\\Coding2024-Fix\\Coding2024-Fix\\Default.aspx",
+              "RelativeDocumentMoniker": "Coding2024-Fix\\Default.aspx",
+              "ToolTip": "C:\\Users\\roshi\\source\\repos\\Coding2024-Fix\\Coding2024-Fix\\Default.aspx",
+              "RelativeToolTip": "Coding2024-Fix\\Default.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-03-15T23:21:33.025Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
